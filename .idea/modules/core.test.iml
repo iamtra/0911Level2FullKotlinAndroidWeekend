@@ -2,7 +2,7 @@
 <module external.linked.project.id="core:test" external.linked.project.path="$MODULE_DIR$/../../core" external.root.project.path="$MODULE_DIR$/../../core" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
-      <configuration version="5" platform="JVM 24" allPlatforms="JVM [24]" useProjectSettings="false" pureKotlinSourceFolders="D:\software_project\Online Class\0911Level2FullKotlinAndroidWeekend\core\src\main\kotlin;D:\software_project\Online Class\0911Level2FullKotlinAndroidWeekend\core\src\test\kotlin">
+      <configuration version="5" platform="JVM 24" allPlatforms="JVM [24]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../core/src/main/kotlin;/Users/buonpheaktra/Documents/OnlineClass/Kotlin/0911Level2FullKotlinAndroidWeekend/core/src/test/kotlin">
         <additionalVisibleModuleNames>core:main</additionalVisibleModuleNames>
         <compilerSettings />
         <compilerArguments>
@@ -35,7 +35,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../core/build/classes/kotlin/test" />
+    <output-test url="file://$MODULE_DIR$/../../core/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../core/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../core/src/test/kotlin" isTestSource="true" />
